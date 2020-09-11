@@ -1,0 +1,109 @@
+/* .mainBody {
+  height: 67.9vh;
+  background: linear-gradient(to bottom right, #ff3399 19%, #3366ff 98%);
+}
+
+span {
+  margin-right: 3rem;
+}
+.nav {
+  margin: 0px;
+  background: #fff;
+  padding: 0px;
+  width: 100%;
+  height: 50px;
+}
+.navbar {
+  background-color: #fff;
+}
+.social_media i {
+  padding: 0px 20px;
+  color: #ff3399;
+}
+.social_media i:hover {
+  padding: 0px 20px;
+  color: #3366ff;
+}
+.navbar img {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+  margin-left: 10px;
+}
+.mainBody img {
+  margin-top: 2rem;
+  height: 33rem;
+  width: 17rem;
+}
+.mainBody h2 {
+  font-size: 36px;
+  color: black;
+  font-weight: bold;
+  margin-top: 143px;
+}
+.mainBody h3 {
+  font-size: 30px;
+  color: #fff;
+  font-weight: bold;
+  margin: 20px 0px;
+}
+.mainBody h6 {
+  font-size: 15px;
+  color: #fff;
+  font-weight: bold;
+  margin: 20px 0px;
+}
+.actionbuttons {
+  height: 51px;
+  width: 188px;
+  border-radius: 35px;
+  border: 1px solid #f2f2f2;
+  background: linear-gradient(to bottom right, #ff3399 19%, #3366ff 98%);
+}
+.tourbutton {
+  margin: 2rem 28rem;
+  height: 51px;
+  width: 188px;
+  border-radius: 35px;
+  background: linear-gradient(to bottom right, #ff3399 19%, #3366ff 98%);
+  color: #fff;
+}
+.tourbutton :hover {
+}
+.tourbutton h5 {
+  cursor: pointer;
+  margin: 13px 36px;
+}
+.actionbuttons:hover {
+  background: linear-gradient(to bottom right, #ff3399 98%, #3366ff 19%);
+  transform: translate(0.3s ease);
+}
+h4 {
+  cursor: pointer;
+  text-align: center;
+  margin-top: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+link {
+  text-decoration: none;
+}
+h4:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.cardlastbutton {
+  cursor: pointer;
+  height: 47px;
+  width: 150px;
+  border: 2px solid #5c5c5c;
+  border-radius: 26px;
+  border-color: #fff;
+  margin: 10px 21px;
+}
+.cardlastbutton img {
+  width: 100px;
+  margin-top: -40px;
+  margin-left: 20px;
+  height: 38px;
+} */

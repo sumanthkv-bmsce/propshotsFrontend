@@ -1,0 +1,33 @@
+.cards {
+  width: 375px;
+  height: 44rem;
+  border-radius: 13px;
+  background: #fff;
+}
+.cardImage {
+  height: 23.5rem;
+}
+.cardImage img {
+  width: 100%;
+  height: 23rem;
+  margin: 0px !important;
+}
+.cards h3 {
+  font-size: 17px;
+  color: #5c5c5c;
+  font-weight: 600;
+  margin-left: 15px;
+}
+.cards h2 {
+  font-size: 17px;
+  color: #5c5c5c;
+  font-weight: 400;
+  margin-left: 15px;
+}
+.swipe {
+  border-radius: 19px;
+  margin-top: 20px;
+}
+h2 img {
+  margin: 0px 0xp;
+}

@@ -1,0 +1,22 @@
+.edit-form {
+  margin: 10rem 0rem;
+}
+.edit-form h1 {
+  color: black;
+  font-weight: bold;
+  margin: 1rem 3rem;
+}
+
+.edit-form label {
+  color: black;
+  font-weight: bold;
+}
+.edit-form button {
+  margin: 0px 42px;
+  padding: 8px 12.7rem;
+  border: #fff;
+  background: linear-gradient(to bottom right, #ff3399 19%, #3366ff 98%);
+}
+.last a {
+  border: none;
+}

@@ -1,0 +1,115 @@
+.card {
+  margin-top: 100px;
+}
+.button {
+  padding: 10px 100px;
+  margin-top: 1000px;
+}
+.cardimage {
+  /* height: 0px !important; */
+}
+.cardimage img {
+  margin: 8px;
+}
+.modalbody button {
+  color: black;
+  padding: 7px 58px;
+  margin: 0px 144px;
+}
+
+.headers h6 {
+  text-align: center;
+}
+
+.modalheader h6 {
+  font-size: 20px;
+  color: #3366ff;
+  font-weight: bold;
+  margin-left: 11rem;
+  text-align: center;
+}
+
+.prop {
+  z-index: -1;
+  margin-left: 250px;
+  height: 10rem;
+  width: auto;
+
+  background-color: #fff;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+.propimage {
+  /* padding: 30px; */
+}
+.propimage img {
+  margin: 9px 26px !important;
+  width: 100px !important;
+  height: 9rem !important;
+}
+/* .carousel-control-prev-icon {
+  display: none !important;
+} */
+/* .carousel-control-prev {
+  display: none !important;
+} */
+
+.allh2 {
+  padding: 38px 0px;
+}
+.prop h2 {
+  margin-top: -69px;
+  margin-left: 28rem;
+  top: 8rem;
+  padding: 0px 0px;
+  font-size: 24px;
+}
+.table {
+  width: 80%;
+  margin-bottom: 1rem;
+  color: #212529;
+  margin: 20px 250px;
+}
+.propimage img {
+  /* width: 20px;
+  height: 129px; */
+}
+
+.modalcard h3 {
+  font-size: 17px;
+  color: #5c5c5c;
+  font-weight: 600;
+  margin-left: 15px;
+}
+.modalcard h2 {
+  font-size: 17px;
+  color: #5c5c5c;
+  font-weight: 400;
+  text-align: left;
+}
+.modal img {
+  margin: 0px;
+}
+
+.headings h2 {
+  margin: 32px 43px;
+  text-align: left;
+  color: #3366ff;
+}
+
+.headings h3 {
+  margin: 32px 48px;
+  text-align: left;
+  color: #3366ff;
+}
+
+@media only screen and (max-width: 576px) {
+  .modalbody button {
+    color: black;
+    padding: 7px 58px;
+    margin: 0px 70px;
+  }
+  .headertext {
+    margin-left: 2px;
+  }
+}

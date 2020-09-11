@@ -1,0 +1,19 @@
+{
+  "name": "react-multistep-example",
+  "homepage": "https://srdjan.github.io/react-multistep",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "alias": {
+    "react": "../node_modules/react"
+  },
+  "dependencies": {
+    "react-dom": "16.13.1",
+    "react-multistep": "file:.."
+  },
+  "devDependencies": {
+    "parcel": "1.12.4"
+  }
+}

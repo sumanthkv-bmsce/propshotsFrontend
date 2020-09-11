@@ -1,0 +1,102 @@
+.links {
+  color: #5c5c5c;
+}
+
+.form-group {
+  padding: 0px 40px;
+}
+
+.modal h2 {
+  font-style: italic;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.modal h3 {
+  margin: 10px 5px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #5c5c5c;
+}
+.modal h3:hover {
+  color: #000;
+}
+
+.modal a {
+  color: #000;
+}
+.modal p {
+  padding: 0px 50px;
+  text-align: center;
+  font-size: 14px;
+
+  color: #252424;
+}
+.modal button {
+  color: #c2c2c2;
+  margin: 10px 00px;
+  text-align: center;
+  padding: 10px 10px;
+  border-radius: 27px;
+  background-color: #fff;
+  border-color: #5c5c5c;
+}
+.cardbutton {
+  cursor: pointer;
+  height: 47px;
+  width: 285px;
+  border: 2px solid #5c5c5c;
+  border-radius: 26px;
+  margin: 20px 85px;
+}
+.cardbutton:hover {
+  border-color: #000;
+  color: #000;
+}
+.cardlastbutton {
+  cursor: pointer;
+  height: 47px;
+  width: 150px;
+  border: 2px solid #5c5c5c;
+  border-radius: 26px;
+  margin: 10px 36px;
+}
+.modal img {
+  margin: 0px 10px;
+}
+.button {
+  margin-left: 60px;
+}
+
+.linediv {
+  width: 26rem;
+  height: 1px;
+  border: 1px solid #c2c2c2;
+  margin: 0px 24px;
+  background: #5c5c5c;
+}
+
+.modal-content {
+  border-radius: 1.3rem;
+}
+@media only screen and (max-width: 576px) {
+  .cardbutton {
+    margin: 18px 20px;
+  }
+  .linediv {
+    display: none;
+  }
+  .getapp {
+    display: none;
+  }
+  .appimage {
+    display: none;
+  }
+  .modal-content {
+    border-radius: 1.3rem;
+    height: 30rem;
+    margin-left: 18px;
+  }
+}
